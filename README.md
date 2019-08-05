@@ -1,0 +1,2 @@
+# Chocadeira
+Sensor DHT11
