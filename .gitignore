@@ -3,3 +3,5 @@ debug
 dist                                                                            
 *.pdsprj*.workspace                                                             
 *.swp 
+*.pdsbak
+private
