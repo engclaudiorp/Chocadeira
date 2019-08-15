@@ -1,11 +1,11 @@
 #include <xc.h>
-//#include <stdio.h>
-//#include <stdlib.h>
-//#include <stdint.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
 #include "main.h"
 #include "defines.h"
 #include "I2C.h"
-//#include "dht11.h"
+
 
 #define DHT11_PIN      PORTBbits.RB2
 #define DHT11_PIN_DIR  TRISBbits.TRISB2
